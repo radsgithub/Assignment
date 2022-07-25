@@ -9,3 +9,6 @@ step 3: ROUTES:
 - A DELETE route “/api/pet/<petId>” to delete a specific pet (eg. /api/pet/id=1).
  
  step 4: start the server and hit the APIs in postman.
+ 
+ NOTE: Kindly install the node_modules before running the code 
+ cmd: npm i
